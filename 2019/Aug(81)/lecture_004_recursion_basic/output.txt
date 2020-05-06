@@ -1,7 +1,2 @@
-abbcdh
-abwdh
-avcdh
-jbbcdh
-jbwdh
-jvcdh
-6
+(0, 1)q1 (1, 3)q2 (2, 0)q3 (3, 2)q4 
+1
